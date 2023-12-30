@@ -1,0 +1,3 @@
+[submodule "CoreAudioML"]
+	path = CoreAudioML
+	url = git@github.com:audiofab/CoreAudioML.git
